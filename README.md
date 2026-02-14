@@ -16,10 +16,10 @@ React + Vite bilingual scrollytelling website generated from `1 (1) (1).pdf`.
 Windows PowerShell (execution policy blocks `npm` script shim on some systems):
 
 ```powershell
-npm.cmd install
-npm.cmd run assets:build
-npm.cmd run content:pipeline
-npm.cmd run dev
+npm install
+npm run assets:build
+npm run content:pipeline
+npm run dev
 ```
 
 ## Scripts
@@ -48,14 +48,3 @@ npm.cmd run dev
 - `src/content/site.ar.json`: Arabic website content
 - `src/content/site.en.json`: English website content
 
-## Vercel Deployment
-
-1. Import the repo/project into Vercel.
-2. Build command: `npm run build:site`
-3. Output directory: `dist`
-4. `vercel.json` already contains SPA rewrite and asset caching headers.
-
-## Notes
-
-- Raw OCR/translation files are generated for iterative copy refinement.
-- Final visible website copy is normalized and curated for clean presentation.
