@@ -1,0 +1,820 @@
+{
+  "generatedAt": "2026-02-14T15:32:34.810Z",
+  "widths": [
+    960,
+    1440,
+    1920
+  ],
+  "pages": [
+    {
+      "pageId": "page_18",
+      "sourceIndex": 18,
+      "logicalOrder": 1,
+      "role": "cover",
+      "section": "cover",
+      "semantic": false,
+      "original": {
+        "width": 2480,
+        "height": 3508,
+        "url": "/assets/raw/page_18.jpg"
+      },
+      "variants": [
+        {
+          "width": 960,
+          "format": "jpg",
+          "url": "/assets/optimized/page_18-960.jpg"
+        },
+        {
+          "width": 960,
+          "format": "webp",
+          "url": "/assets/optimized/page_18-960.webp"
+        },
+        {
+          "width": 1440,
+          "format": "jpg",
+          "url": "/assets/optimized/page_18-1440.jpg"
+        },
+        {
+          "width": 1440,
+          "format": "webp",
+          "url": "/assets/optimized/page_18-1440.webp"
+        },
+        {
+          "width": 1920,
+          "format": "jpg",
+          "url": "/assets/optimized/page_18-1920.jpg"
+        },
+        {
+          "width": 1920,
+          "format": "webp",
+          "url": "/assets/optimized/page_18-1920.webp"
+        }
+      ]
+    },
+    {
+      "pageId": "page_17",
+      "sourceIndex": 17,
+      "logicalOrder": 2,
+      "role": "core_semantic",
+      "section": "about",
+      "semantic": true,
+      "original": {
+        "width": 2480,
+        "height": 3508,
+        "url": "/assets/raw/page_17.jpg"
+      },
+      "variants": [
+        {
+          "width": 960,
+          "format": "jpg",
+          "url": "/assets/optimized/page_17-960.jpg"
+        },
+        {
+          "width": 960,
+          "format": "webp",
+          "url": "/assets/optimized/page_17-960.webp"
+        },
+        {
+          "width": 1440,
+          "format": "jpg",
+          "url": "/assets/optimized/page_17-1440.jpg"
+        },
+        {
+          "width": 1440,
+          "format": "webp",
+          "url": "/assets/optimized/page_17-1440.webp"
+        },
+        {
+          "width": 1920,
+          "format": "jpg",
+          "url": "/assets/optimized/page_17-1920.jpg"
+        },
+        {
+          "width": 1920,
+          "format": "webp",
+          "url": "/assets/optimized/page_17-1920.webp"
+        }
+      ]
+    },
+    {
+      "pageId": "page_16",
+      "sourceIndex": 16,
+      "logicalOrder": 3,
+      "role": "core_semantic",
+      "section": "visionMission",
+      "semantic": true,
+      "original": {
+        "width": 2480,
+        "height": 3508,
+        "url": "/assets/raw/page_16.jpg"
+      },
+      "variants": [
+        {
+          "width": 960,
+          "format": "jpg",
+          "url": "/assets/optimized/page_16-960.jpg"
+        },
+        {
+          "width": 960,
+          "format": "webp",
+          "url": "/assets/optimized/page_16-960.webp"
+        },
+        {
+          "width": 1440,
+          "format": "jpg",
+          "url": "/assets/optimized/page_16-1440.jpg"
+        },
+        {
+          "width": 1440,
+          "format": "webp",
+          "url": "/assets/optimized/page_16-1440.webp"
+        },
+        {
+          "width": 1920,
+          "format": "jpg",
+          "url": "/assets/optimized/page_16-1920.jpg"
+        },
+        {
+          "width": 1920,
+          "format": "webp",
+          "url": "/assets/optimized/page_16-1920.webp"
+        }
+      ]
+    },
+    {
+      "pageId": "page_15",
+      "sourceIndex": 15,
+      "logicalOrder": 4,
+      "role": "core_semantic",
+      "section": "goalsValues",
+      "semantic": true,
+      "original": {
+        "width": 2480,
+        "height": 3508,
+        "url": "/assets/raw/page_15.jpg"
+      },
+      "variants": [
+        {
+          "width": 960,
+          "format": "jpg",
+          "url": "/assets/optimized/page_15-960.jpg"
+        },
+        {
+          "width": 960,
+          "format": "webp",
+          "url": "/assets/optimized/page_15-960.webp"
+        },
+        {
+          "width": 1440,
+          "format": "jpg",
+          "url": "/assets/optimized/page_15-1440.jpg"
+        },
+        {
+          "width": 1440,
+          "format": "webp",
+          "url": "/assets/optimized/page_15-1440.webp"
+        },
+        {
+          "width": 1920,
+          "format": "jpg",
+          "url": "/assets/optimized/page_15-1920.jpg"
+        },
+        {
+          "width": 1920,
+          "format": "webp",
+          "url": "/assets/optimized/page_15-1920.webp"
+        }
+      ]
+    },
+    {
+      "pageId": "page_14",
+      "sourceIndex": 14,
+      "logicalOrder": 5,
+      "role": "core_semantic",
+      "section": "services",
+      "semantic": true,
+      "original": {
+        "width": 2480,
+        "height": 3508,
+        "url": "/assets/raw/page_14.jpg"
+      },
+      "variants": [
+        {
+          "width": 960,
+          "format": "jpg",
+          "url": "/assets/optimized/page_14-960.jpg"
+        },
+        {
+          "width": 960,
+          "format": "webp",
+          "url": "/assets/optimized/page_14-960.webp"
+        },
+        {
+          "width": 1440,
+          "format": "jpg",
+          "url": "/assets/optimized/page_14-1440.jpg"
+        },
+        {
+          "width": 1440,
+          "format": "webp",
+          "url": "/assets/optimized/page_14-1440.webp"
+        },
+        {
+          "width": 1920,
+          "format": "jpg",
+          "url": "/assets/optimized/page_14-1920.jpg"
+        },
+        {
+          "width": 1920,
+          "format": "webp",
+          "url": "/assets/optimized/page_14-1920.webp"
+        }
+      ]
+    },
+    {
+      "pageId": "page_13",
+      "sourceIndex": 13,
+      "logicalOrder": 6,
+      "role": "core_semantic",
+      "section": "services",
+      "semantic": true,
+      "original": {
+        "width": 2480,
+        "height": 3508,
+        "url": "/assets/raw/page_13.jpg"
+      },
+      "variants": [
+        {
+          "width": 960,
+          "format": "jpg",
+          "url": "/assets/optimized/page_13-960.jpg"
+        },
+        {
+          "width": 960,
+          "format": "webp",
+          "url": "/assets/optimized/page_13-960.webp"
+        },
+        {
+          "width": 1440,
+          "format": "jpg",
+          "url": "/assets/optimized/page_13-1440.jpg"
+        },
+        {
+          "width": 1440,
+          "format": "webp",
+          "url": "/assets/optimized/page_13-1440.webp"
+        },
+        {
+          "width": 1920,
+          "format": "jpg",
+          "url": "/assets/optimized/page_13-1920.jpg"
+        },
+        {
+          "width": 1920,
+          "format": "webp",
+          "url": "/assets/optimized/page_13-1920.webp"
+        }
+      ]
+    },
+    {
+      "pageId": "page_11",
+      "sourceIndex": 11,
+      "logicalOrder": 7,
+      "role": "gallery",
+      "section": "projectsGallery",
+      "semantic": false,
+      "original": {
+        "width": 2480,
+        "height": 3508,
+        "url": "/assets/raw/page_11.jpg"
+      },
+      "variants": [
+        {
+          "width": 960,
+          "format": "jpg",
+          "url": "/assets/optimized/page_11-960.jpg"
+        },
+        {
+          "width": 960,
+          "format": "webp",
+          "url": "/assets/optimized/page_11-960.webp"
+        },
+        {
+          "width": 1440,
+          "format": "jpg",
+          "url": "/assets/optimized/page_11-1440.jpg"
+        },
+        {
+          "width": 1440,
+          "format": "webp",
+          "url": "/assets/optimized/page_11-1440.webp"
+        },
+        {
+          "width": 1920,
+          "format": "jpg",
+          "url": "/assets/optimized/page_11-1920.jpg"
+        },
+        {
+          "width": 1920,
+          "format": "webp",
+          "url": "/assets/optimized/page_11-1920.webp"
+        }
+      ]
+    },
+    {
+      "pageId": "page_12",
+      "sourceIndex": 12,
+      "logicalOrder": 8,
+      "role": "gallery",
+      "section": "projectsGallery",
+      "semantic": false,
+      "original": {
+        "width": 2480,
+        "height": 3508,
+        "url": "/assets/raw/page_12.jpg"
+      },
+      "variants": [
+        {
+          "width": 960,
+          "format": "jpg",
+          "url": "/assets/optimized/page_12-960.jpg"
+        },
+        {
+          "width": 960,
+          "format": "webp",
+          "url": "/assets/optimized/page_12-960.webp"
+        },
+        {
+          "width": 1440,
+          "format": "jpg",
+          "url": "/assets/optimized/page_12-1440.jpg"
+        },
+        {
+          "width": 1440,
+          "format": "webp",
+          "url": "/assets/optimized/page_12-1440.webp"
+        },
+        {
+          "width": 1920,
+          "format": "jpg",
+          "url": "/assets/optimized/page_12-1920.jpg"
+        },
+        {
+          "width": 1920,
+          "format": "webp",
+          "url": "/assets/optimized/page_12-1920.webp"
+        }
+      ]
+    },
+    {
+      "pageId": "page_10",
+      "sourceIndex": 10,
+      "logicalOrder": 9,
+      "role": "gallery",
+      "section": "projectsGallery",
+      "semantic": false,
+      "original": {
+        "width": 2480,
+        "height": 3508,
+        "url": "/assets/raw/page_10.jpg"
+      },
+      "variants": [
+        {
+          "width": 960,
+          "format": "jpg",
+          "url": "/assets/optimized/page_10-960.jpg"
+        },
+        {
+          "width": 960,
+          "format": "webp",
+          "url": "/assets/optimized/page_10-960.webp"
+        },
+        {
+          "width": 1440,
+          "format": "jpg",
+          "url": "/assets/optimized/page_10-1440.jpg"
+        },
+        {
+          "width": 1440,
+          "format": "webp",
+          "url": "/assets/optimized/page_10-1440.webp"
+        },
+        {
+          "width": 1920,
+          "format": "jpg",
+          "url": "/assets/optimized/page_10-1920.jpg"
+        },
+        {
+          "width": 1920,
+          "format": "webp",
+          "url": "/assets/optimized/page_10-1920.webp"
+        }
+      ]
+    },
+    {
+      "pageId": "page_09",
+      "sourceIndex": 9,
+      "logicalOrder": 10,
+      "role": "gallery",
+      "section": "projectsGallery",
+      "semantic": false,
+      "original": {
+        "width": 2480,
+        "height": 3508,
+        "url": "/assets/raw/page_09.jpg"
+      },
+      "variants": [
+        {
+          "width": 960,
+          "format": "jpg",
+          "url": "/assets/optimized/page_09-960.jpg"
+        },
+        {
+          "width": 960,
+          "format": "webp",
+          "url": "/assets/optimized/page_09-960.webp"
+        },
+        {
+          "width": 1440,
+          "format": "jpg",
+          "url": "/assets/optimized/page_09-1440.jpg"
+        },
+        {
+          "width": 1440,
+          "format": "webp",
+          "url": "/assets/optimized/page_09-1440.webp"
+        },
+        {
+          "width": 1920,
+          "format": "jpg",
+          "url": "/assets/optimized/page_09-1920.jpg"
+        },
+        {
+          "width": 1920,
+          "format": "webp",
+          "url": "/assets/optimized/page_09-1920.webp"
+        }
+      ]
+    },
+    {
+      "pageId": "page_08",
+      "sourceIndex": 8,
+      "logicalOrder": 11,
+      "role": "gallery",
+      "section": "projectsGallery",
+      "semantic": false,
+      "original": {
+        "width": 2480,
+        "height": 3508,
+        "url": "/assets/raw/page_08.jpg"
+      },
+      "variants": [
+        {
+          "width": 960,
+          "format": "jpg",
+          "url": "/assets/optimized/page_08-960.jpg"
+        },
+        {
+          "width": 960,
+          "format": "webp",
+          "url": "/assets/optimized/page_08-960.webp"
+        },
+        {
+          "width": 1440,
+          "format": "jpg",
+          "url": "/assets/optimized/page_08-1440.jpg"
+        },
+        {
+          "width": 1440,
+          "format": "webp",
+          "url": "/assets/optimized/page_08-1440.webp"
+        },
+        {
+          "width": 1920,
+          "format": "jpg",
+          "url": "/assets/optimized/page_08-1920.jpg"
+        },
+        {
+          "width": 1920,
+          "format": "webp",
+          "url": "/assets/optimized/page_08-1920.webp"
+        }
+      ]
+    },
+    {
+      "pageId": "page_06",
+      "sourceIndex": 6,
+      "logicalOrder": 12,
+      "role": "gallery",
+      "section": "projectsGallery",
+      "semantic": false,
+      "original": {
+        "width": 2480,
+        "height": 3508,
+        "url": "/assets/raw/page_06.jpg"
+      },
+      "variants": [
+        {
+          "width": 960,
+          "format": "jpg",
+          "url": "/assets/optimized/page_06-960.jpg"
+        },
+        {
+          "width": 960,
+          "format": "webp",
+          "url": "/assets/optimized/page_06-960.webp"
+        },
+        {
+          "width": 1440,
+          "format": "jpg",
+          "url": "/assets/optimized/page_06-1440.jpg"
+        },
+        {
+          "width": 1440,
+          "format": "webp",
+          "url": "/assets/optimized/page_06-1440.webp"
+        },
+        {
+          "width": 1920,
+          "format": "jpg",
+          "url": "/assets/optimized/page_06-1920.jpg"
+        },
+        {
+          "width": 1920,
+          "format": "webp",
+          "url": "/assets/optimized/page_06-1920.webp"
+        }
+      ]
+    },
+    {
+      "pageId": "page_07",
+      "sourceIndex": 7,
+      "logicalOrder": 13,
+      "role": "gallery",
+      "section": "projectsGallery",
+      "semantic": false,
+      "original": {
+        "width": 2480,
+        "height": 3508,
+        "url": "/assets/raw/page_07.jpg"
+      },
+      "variants": [
+        {
+          "width": 960,
+          "format": "jpg",
+          "url": "/assets/optimized/page_07-960.jpg"
+        },
+        {
+          "width": 960,
+          "format": "webp",
+          "url": "/assets/optimized/page_07-960.webp"
+        },
+        {
+          "width": 1440,
+          "format": "jpg",
+          "url": "/assets/optimized/page_07-1440.jpg"
+        },
+        {
+          "width": 1440,
+          "format": "webp",
+          "url": "/assets/optimized/page_07-1440.webp"
+        },
+        {
+          "width": 1920,
+          "format": "jpg",
+          "url": "/assets/optimized/page_07-1920.jpg"
+        },
+        {
+          "width": 1920,
+          "format": "webp",
+          "url": "/assets/optimized/page_07-1920.webp"
+        }
+      ]
+    },
+    {
+      "pageId": "page_05",
+      "sourceIndex": 5,
+      "logicalOrder": 14,
+      "role": "gallery",
+      "section": "projectsGallery",
+      "semantic": false,
+      "original": {
+        "width": 2480,
+        "height": 3508,
+        "url": "/assets/raw/page_05.jpg"
+      },
+      "variants": [
+        {
+          "width": 960,
+          "format": "jpg",
+          "url": "/assets/optimized/page_05-960.jpg"
+        },
+        {
+          "width": 960,
+          "format": "webp",
+          "url": "/assets/optimized/page_05-960.webp"
+        },
+        {
+          "width": 1440,
+          "format": "jpg",
+          "url": "/assets/optimized/page_05-1440.jpg"
+        },
+        {
+          "width": 1440,
+          "format": "webp",
+          "url": "/assets/optimized/page_05-1440.webp"
+        },
+        {
+          "width": 1920,
+          "format": "jpg",
+          "url": "/assets/optimized/page_05-1920.jpg"
+        },
+        {
+          "width": 1920,
+          "format": "webp",
+          "url": "/assets/optimized/page_05-1920.webp"
+        }
+      ]
+    },
+    {
+      "pageId": "page_03",
+      "sourceIndex": 3,
+      "logicalOrder": 15,
+      "role": "gallery",
+      "section": "projectsGallery",
+      "semantic": false,
+      "original": {
+        "width": 2480,
+        "height": 3508,
+        "url": "/assets/raw/page_03.jpg"
+      },
+      "variants": [
+        {
+          "width": 960,
+          "format": "jpg",
+          "url": "/assets/optimized/page_03-960.jpg"
+        },
+        {
+          "width": 960,
+          "format": "webp",
+          "url": "/assets/optimized/page_03-960.webp"
+        },
+        {
+          "width": 1440,
+          "format": "jpg",
+          "url": "/assets/optimized/page_03-1440.jpg"
+        },
+        {
+          "width": 1440,
+          "format": "webp",
+          "url": "/assets/optimized/page_03-1440.webp"
+        },
+        {
+          "width": 1920,
+          "format": "jpg",
+          "url": "/assets/optimized/page_03-1920.jpg"
+        },
+        {
+          "width": 1920,
+          "format": "webp",
+          "url": "/assets/optimized/page_03-1920.webp"
+        }
+      ]
+    },
+    {
+      "pageId": "page_04",
+      "sourceIndex": 4,
+      "logicalOrder": 16,
+      "role": "gallery",
+      "section": "clients",
+      "semantic": false,
+      "original": {
+        "width": 2480,
+        "height": 3508,
+        "url": "/assets/raw/page_04.jpg"
+      },
+      "variants": [
+        {
+          "width": 960,
+          "format": "jpg",
+          "url": "/assets/optimized/page_04-960.jpg"
+        },
+        {
+          "width": 960,
+          "format": "webp",
+          "url": "/assets/optimized/page_04-960.webp"
+        },
+        {
+          "width": 1440,
+          "format": "jpg",
+          "url": "/assets/optimized/page_04-1440.jpg"
+        },
+        {
+          "width": 1440,
+          "format": "webp",
+          "url": "/assets/optimized/page_04-1440.webp"
+        },
+        {
+          "width": 1920,
+          "format": "jpg",
+          "url": "/assets/optimized/page_04-1920.jpg"
+        },
+        {
+          "width": 1920,
+          "format": "webp",
+          "url": "/assets/optimized/page_04-1920.webp"
+        }
+      ]
+    },
+    {
+      "pageId": "page_02",
+      "sourceIndex": 2,
+      "logicalOrder": 17,
+      "role": "certificates",
+      "section": "certificates",
+      "semantic": false,
+      "original": {
+        "width": 2480,
+        "height": 3508,
+        "url": "/assets/raw/page_02.jpg"
+      },
+      "variants": [
+        {
+          "width": 960,
+          "format": "jpg",
+          "url": "/assets/optimized/page_02-960.jpg"
+        },
+        {
+          "width": 960,
+          "format": "webp",
+          "url": "/assets/optimized/page_02-960.webp"
+        },
+        {
+          "width": 1440,
+          "format": "jpg",
+          "url": "/assets/optimized/page_02-1440.jpg"
+        },
+        {
+          "width": 1440,
+          "format": "webp",
+          "url": "/assets/optimized/page_02-1440.webp"
+        },
+        {
+          "width": 1920,
+          "format": "jpg",
+          "url": "/assets/optimized/page_02-1920.jpg"
+        },
+        {
+          "width": 1920,
+          "format": "webp",
+          "url": "/assets/optimized/page_02-1920.webp"
+        }
+      ]
+    },
+    {
+      "pageId": "page_01",
+      "sourceIndex": 1,
+      "logicalOrder": 18,
+      "role": "contact",
+      "section": "contact",
+      "semantic": true,
+      "original": {
+        "width": 2480,
+        "height": 3508,
+        "url": "/assets/raw/page_01.jpg"
+      },
+      "variants": [
+        {
+          "width": 960,
+          "format": "jpg",
+          "url": "/assets/optimized/page_01-960.jpg"
+        },
+        {
+          "width": 960,
+          "format": "webp",
+          "url": "/assets/optimized/page_01-960.webp"
+        },
+        {
+          "width": 1440,
+          "format": "jpg",
+          "url": "/assets/optimized/page_01-1440.jpg"
+        },
+        {
+          "width": 1440,
+          "format": "webp",
+          "url": "/assets/optimized/page_01-1440.webp"
+        },
+        {
+          "width": 1920,
+          "format": "jpg",
+          "url": "/assets/optimized/page_01-1920.jpg"
+        },
+        {
+          "width": 1920,
+          "format": "webp",
+          "url": "/assets/optimized/page_01-1920.webp"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "locale": "en",
+  "direction": "ltr",
+  "meta": {
+    "brandName": "Fawasel",
+    "companyName": "Fawasel Advanced Contracting Est.",
+    "year": 2024,
+    "primaryColor": "#0D5A6F",
+    "accentColor": "#F57921"
+  },
+  "navigation": {
+    "sections": [
+      {
+        "id": "cover",
+        "label": "Home"
+      },
+      {
+        "id": "about",
+        "label": "About"
+      },
+      {
+        "id": "visionMission",
+        "label": "Vision & Mission"
+      },
+      {
+        "id": "goalsValues",
+        "label": "Goals & Values"
+      },
+      {
+        "id": "services",
+        "label": "Services"
+      },
+      {
+        "id": "projectsGallery",
+        "label": "Projects"
+      },
+      {
+        "id": "clients",
+        "label": "Clients"
+      },
+      {
+        "id": "certificates",
+        "label": "Certificates"
+      },
+      {
+        "id": "contact",
+        "label": "Contact"
+      }
+    ]
+  },
+  "sections": {
+    "cover": {
+      "kicker": "Fawasel Advanced Contracting Est.",
+      "title": "Fawasel Advanced Contracting",
+      "subtitle": "Premium execution in contracting and fit-out",
+      "description": "A cinematic, bilingual company profile transformed from brochure to web storytelling.",
+      "ctaPrimary": "View Projects",
+      "ctaSecondary": "Contact Us"
+    },
+    "about": {
+      "title": "Who We Are",
+      "subtitle": "Execution depth with modern standards",
+      "description": "Fawasel Advanced Contracting Est. delivers practical contracting and fit-out solutions with quality-driven execution."
+    },
+    "visionMission": {
+      "title": "Vision & Mission",
+      "visionTitle": "Vision",
+      "visionText": "We align with Saudi Vision 2030 by delivering innovative and sustainable contracting solutions.",
+      "missionTitle": "Mission",
+      "missionText": "We execute projects with precision and quality while building long-term client partnerships."
+    },
+    "goalsValues": {
+      "title": "Goals & Values",
+      "goalsTitle": "Goals",
+      "goals": [
+        "Achieve consistent project excellence.",
+        "Expand specialized contracting services.",
+        "Build long-term trusted client relationships.",
+        "Promote innovation in design and execution.",
+        "Continuously develop technical and managerial teams."
+      ],
+      "valuesTitle": "Values",
+      "values": [
+        "Quality",
+        "Integrity",
+        "Innovation",
+        "Commitment"
+      ]
+    },
+    "services": {
+      "title": "Our Services",
+      "description": "We provide commercial fit-outs, electro-mechanical works, fabrication and supply, preventive maintenance, and HVAC/electrical systems.",
+      "categories": [
+        "Commercial and administrative fit-out works",
+        "Electro-mechanical systems (HVAC, ventilation, electrical, fire safety)",
+        "Fabrication, supply, and preventive maintenance",
+        "Civil works and interior finishes"
+      ]
+    },
+    "projectsGallery": {
+      "title": "Executed Projects",
+      "subtitle": "Retail, commercial, and technical execution",
+      "description": "Selected references highlighting delivered quality across diverse project types."
+    },
+    "clients": {
+      "title": "Our Clients",
+      "subtitle": "Partnerships built on trust",
+      "description": "We have served leading brands and entities including Cenomi, SNB, Adidas, and Florina."
+    },
+    "certificates": {
+      "title": "Certificates & Registrations",
+      "subtitle": "Official business documentation",
+      "description": "Registration and compliance documents supporting the company profile and scope."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "address": "Makkah - Al Sharaea District - P.O. Box 24432",
+      "phones": [
+        "0592478182",
+        "0565362538",
+        "0561806831"
+      ],
+      "email": "fawasil.manager@gmail.com",
+      "whatsapp": "0565362538",
+      "note": "Reach out for project consultations, fit-out scope, and contracting support."
+    }
+  },
+  "quickActions": [
+    {
+      "id": "call",
+      "label": "Call",
+      "href": "tel:0592478182",
+      "icon": "phone"
+    },
+    {
+      "id": "whatsapp",
+      "label": "WhatsApp",
+      "href": "https://wa.me/966565362538",
+      "icon": "whatsapp"
+    },
+    {
+      "id": "email",
+      "label": "Email",
+      "href": "mailto:fawasil.manager@gmail.com",
+      "icon": "mail"
+    }
+  ],
+  "projectGalleryGroups": [
+    {
+      "id": "showcase-1",
+      "title": "Retail Fit-outs",
+      "pageIds": [
+        "page_12",
+        "page_10",
+        "page_09"
+      ]
+    },
+    {
+      "id": "showcase-2",
+      "title": "Field Execution",
+      "pageIds": [
+        "page_11",
+        "page_08",
+        "page_06",
+        "page_07",
+        "page_05",
+        "page_03"
+      ]
+    }
+  ],
+  "certificateItems": [
+    {
+      "id": "cert-main",
+      "title": "Business Registration & Certificates",
+      "pageId": "page_02"
+    }
+  ]
+}
